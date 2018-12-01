@@ -11,6 +11,11 @@ I hope that publishing it would make Milestone more open for their next games an
 
 - UDP packets are broadcasted to UDP port 7100
 - Telemetry is only sent offline
-- A very few holes are remaining in the structure, but 95% of the data are parsed
+- A very few holes are remaining in the structure, but 80% of the data are parsed
+
+## Mapping status :
+
+Gray are mapped, white not mapped yet
+![](https://i.imgur.com/qCBCbZ5.png)
 
 Have fun !
