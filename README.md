@@ -16,6 +16,7 @@ I hope that publishing it would make Milestone more open for their next games an
 ## Mapping status :
 
 Gray are mapped, white not mapped yet
+
 ![](https://i.imgur.com/qCBCbZ5.png)
 
 Have fun !
